@@ -1,0 +1,3 @@
+name, h, w
+pepe, 175, 82
+tono, 180, 75

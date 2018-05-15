@@ -1,0 +1,153 @@
+   60  ls
+   62  ls
+   64  ls
+   69  ls
+   71  ls
+   76  ls
+   78  ls
+   80  ls
+   85  ls
+   87  ls
+   90  ls
+   93  ls
+   95  ls
+   99  ls
+  101  ls
+  103  ls
+  111  ls
+  115  ls
+  120  ls
+  122  ls
+  143  ls
+  146  ls
+  152  ls
+  184  ls
+  186  ls
+  188  ls
+  194  ls
+  196  ls
+  199  ls
+  200  ls
+  203  ls
+  205  ls
+  209  ls
+  212  ls
+  267  ls
+  336  ls -l
+  338  ls -l
+  343  ls
+  346  ls
+  347  ls *h
+  348  ls -h
+  350  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  351  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  352  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  353  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  354  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  355  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  356  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/learnc-es ; exit;
+  357  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  358  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/learnc-es ; exit;
+  359  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  360  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  361  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  362  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  363  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  364  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  365  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  366  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  367  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  368  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  369  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  370  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  371  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  372  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  373  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  374  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  375  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  376  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  377  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  378  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  379  /private/var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/AppTranslocation/197CBB2E-80EC-4A39-9076-CB8D0C7A2887/d/CodeBlocks.app/Contents/MacOS/cb_console_runner DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:. /Users/bryan_ruiz/Desktop/Quarter/Programming/Practice 1/bin/Debug/Practice 1 
+  380  /private/var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/AppTranslocation/197CBB2E-80EC-4A39-9076-CB8D0C7A2887/d/CodeBlocks.app/Contents/MacOS/cb_console_runner DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:. /Users/bryan_ruiz/Desktop/Quarter/Programming/Practice 1/bin/Debug/Practice 1 
+  381  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  382  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  383  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  384  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  385  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  386  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  387  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  388  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  389  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  390  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  391  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  392  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  393  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice1 ; exit;
+  394  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  395  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  396  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  397  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  398  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  399  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  400  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  402  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  403  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  404  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  405  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  406  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  410  ls -alt
+  413  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  414  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  415  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  416  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  417  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  418  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  419  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  420  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  421  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  422  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  428  ls
+  431  ls
+  433  ls
+  440  ls
+  446  ls -R
+  447  ls -r
+  449  ls
+  450  ls -l
+  451  ls -t
+  452  ls .alt
+  453  ls -alt
+  458  ls
+  459  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  460  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  461  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Switch ; exit;
+  462  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Switch ; exit;
+  463  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  464  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  465  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  466  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  467  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  468  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  469  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  470  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  471  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  472  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  473  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  474  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  475  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  476  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  477  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  478  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  479  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  480  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  481  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  483  ls
+  486  ls
+  487  ls -alt
+  491  ls
+  503  ls
+  504  ls -alr
+  505  ls -alt
+  510  history | grep ls
+  521  ls
+  529  ls

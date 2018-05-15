@@ -1,0 +1,500 @@
+   41  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/DF ; exit;
+   42  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   43  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   44  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   45  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   46  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   47  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/B-D ; exit;
+   48  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   49  cd '/Users/bryan_ruiz/Documents/' && '/usr/local/bin/pythonw'  '/Users/bryan_ruiz/Documents/Ve.py'  && echo Exit status: $? && exit 1
+   50  cd '/Users/bryan_ruiz/Documents/' && '/usr/local/bin/pythonw'  '/Users/bryan_ruiz/Documents/Gener.py'  && echo Exit status: $? && exit 1
+   51  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/Conversor ; exit;
+   52  cd Desktop/
+   53  nano B-HEX
+   54  /Users/bryan_ruiz/Desktop/Conversor ; exit;
+   55  /Users/bryan_ruiz/Desktop/Conversor ; exit;
+   56  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/B-D ; exit;
+   57  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/B-D ; exit;
+   58  /Users/bryan_ruiz/Desktop/1st\ Quarter/C/B-D ; exit;
+   59  cd Desktop
+   60  ls
+   61  cd Quarter
+   62  ls
+   63  cd C
+   64  ls
+   65  gcc B-D 
+   66  cd B-D.c
+   67  gcc B-D.c
+   68  gcc D-B.c
+   69  ls
+   70  gcc SEES.o
+   71  ls
+   72  ./ SEES
+   73  ./SEES
+   74  cd Desktop
+   75  cd Quarter
+   76  ls
+   77  cd C
+   78  ls
+   79  gcc SEES.c
+   80  ls
+   81  ./ SEES
+   82  ./SEES
+   83  cd Desktop
+   84  cd Quarter
+   85  ls
+   86  cd C
+   87  ls
+   88  cd UPYConversor.c
+   89  gcc UPYConversor.c
+   90  ls
+   91  ./UPYConversor
+   92  ./Conversor
+   93  ls
+   94  gcc UPYConversor.c
+   95  ls
+   96  ./SEES
+   97  cd Desktop
+   98  cd Quarter
+   99  ls
+  100  cd C
+  101  ls
+  102  gcc UPYConversor.c
+  103  ls
+  104  ./ a.out
+  105  ./a.out
+  106  /Users/bryan_ruiz/Desktop/Quarter/C/UPYCONVERSOR ; exit;
+  107  /Users/bryan_ruiz/Desktop/Quarter/C/UPYCONVERSOR ; exit;
+  108  cd Desktop
+  109  cd Quarter
+  110  cd C
+  111  ls
+  112  gcc UPYConversor
+  113  cd UPYConversor.c
+  114  gcc UPYConversor.c
+  115  ls
+  116  ./a.out
+  117  cd Desktop
+  118  cd Quarter
+  119  cd C
+  120  ls
+  121  gcc UPYConversor.c -o Convertidor
+  122  ls
+  123  ./Convertidor
+  124  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  125  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  126  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  127  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  128  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  129  cd Desk
+  130  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  131  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  132  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  133  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  134  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  135  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  136  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  137  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  138  /Users/bryan_ruiz/Desktop/Quarter/Math\ Software/Convertidor ; exit;
+  139  /Users/bryan_ruiz/Desktop/Quarter/Math\ Software/UPYConversor ; exit;
+  140  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  141  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  142  cd Desktop
+  143  ls
+  144  cd Quarter
+  145  cd C
+  146  ls
+  147  ./UPYConversor
+  148  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  149  cd Desktop
+  150  cd Quarter
+  151  cd C
+  152  ls
+  153  ./UPYConversor
+  154  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  155  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  156  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  157  python
+  158  python
+  159  python
+  160  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  161  python
+  162  python
+  163  python
+  164  python
+  165  python
+  166  python --version
+  167  python
+  168  nano DG
+  169  /Users/bryan_ruiz/Desktop/Practice
+  170  /Users/bryan_ruiz/Desktop/Practice
+  171  python
+  172  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  173  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  174  python
+  175  print pene
+  176  python
+  177  python
+  178  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  179  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  180  /Users/bryan_ruiz/Desktop/Practice
+  181  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  182  /Users/bryan_ruiz/Desktop/Practice
+  183  cd Desktop
+  184  ls
+  185  cd Quarter
+  186  ls
+  187  cd C
+  188  ls
+  189  ./UPYConversor
+  190  cd Desktop
+  191  python
+  192  desktop
+  193  cd Desktop
+  194  ls
+  195  cd ..
+  196  ls
+  197  cd Applcations
+  198  cd Applications
+  199  ls
+  200  ls
+  201  cd Desktop
+  202  cd ..
+  203  ls
+  204  cd LOPER
+  205  ls
+  206  cd Jesus
+  207  cd jesus
+  208  ñs
+  209  ls
+  210  cd ..
+  211  cd jesus
+  212  ls
+  213  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  214  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  215  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  216  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  217  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  218  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  219  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  220  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  221  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  222  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  223  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  224  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  225  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  226  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  227  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De
+  228  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  229  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  230  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  231  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  232  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  233  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  234  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  235  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  236  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  237  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  238  /Users/bryan_ruiz/Desktop/Quarter/Chemistry/B-D ; exit;
+  239  /Users/bryan_ruiz/Desktop/Quarter/C/Bin-Deci ; exit;
+  240  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  241  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  242  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  243  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  244  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  245  python
+  246  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  247  python
+  248  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  249  cd Deskto
+  250  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  251  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  252  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  253  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  254  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  255  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  256  clear
+  257  c
+  258  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  259  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  260  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  261  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  262  pyt
+  263  python
+  264  cd Desktop
+  265  cd Quarter
+  266  cd C
+  267  ls
+  268  ./UPYConvertidor
+  269  ./UPYConversor
+  270  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  271  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  272  python
+  273  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  274  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  275  home
+  276  ip home
+  277  ip config
+  278  ipconfig
+  279  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  280  /Users/bryan_ruiz/Desktop/Quarter/C/Bin-Deci ; exit;
+  281  cd Desktop
+  282  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  283  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  284  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  285  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  286  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  287  /Users/bryan_ruiz/Desktop/Quarter/C/HEX-De ; exit;
+  288  /Users/bryan_ruiz/Desktop/Practice ; exit;
+  289  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  290  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  291  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  292  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  293  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  294  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  295  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  296  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  297  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  298  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor
+  299  /Users/bryan_ruiz/Desktop/Quarter/C/UPYConversor ; exit;
+  300  /Users/bryan_ruiz/Desktop/Quarter/C/Convertidor ; exit;
+  301  python
+  302  /Users/bryan_ruiz/Desktop/Quarter/Programming Introduction/Numbers to Rom
+  303  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  304  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  305  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  306  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  307  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  308  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  309  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  310  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  311  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  312  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  313  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  314  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  315  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  316  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  317  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  318  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  319  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  320  /Users/bryan_ruiz/Downloads/rar\ 2/rar ; exit;
+  321  /Users/bryan_ruiz/Downloads/rar\ 2/unrar ; exit;
+  322  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  323  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  324  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  325  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  326  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  327  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  328  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  329  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  330  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  331  nano MaghPRo
+  332  python
+  333  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  334  /Users/bryan_ruiz/Desktop/Convertir\ a\ Romano ; exit;
+  335  cd Desktop
+  336  ls -l
+  337  clear
+  338  ls -l
+  339  pwd
+  340  cd Quarter
+  341  pwd
+  342  cd Metrology
+  343  ls
+  344  echo "Hello"
+  345  echo "Hello" > hello.txt
+  346  ls
+  347  ls *h
+  348  ls -h
+  349  grep h
+  350  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  351  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  352  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  353  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  354  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  355  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  356  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/learnc-es ; exit;
+  357  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  358  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/learnc-es ; exit;
+  359  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  360  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  361  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  362  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  363  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  364  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  365  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  366  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  367  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  368  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  369  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  370  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  371  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  372  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  373  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  374  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  375  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  376  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  377  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  378  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  379  /private/var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/AppTranslocation/197CBB2E-80EC-4A39-9076-CB8D0C7A2887/d/CodeBlocks.app/Contents/MacOS/cb_console_runner DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:. /Users/bryan_ruiz/Desktop/Quarter/Programming/Practice 1/bin/Debug/Practice 1 
+  380  /private/var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/AppTranslocation/197CBB2E-80EC-4A39-9076-CB8D0C7A2887/d/CodeBlocks.app/Contents/MacOS/cb_console_runner DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:. /Users/bryan_ruiz/Desktop/Quarter/Programming/Practice 1/bin/Debug/Practice 1 
+  381  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  382  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  383  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  384  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  385  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  386  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo ; exit;
+  387  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  388  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  389  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  390  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  391  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  392  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Demo\ 2 ; exit;
+  393  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice1 ; exit;
+  394  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  395  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  396  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  397  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  398  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  399  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  400  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  401  python
+  402  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  403  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  404  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  405  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  406  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  407  .vim
+  408  clear
+  409  vim fb.sh
+  410  ls -alt
+  411  pwd
+  412  .
+  413  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  414  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  415  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  416  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  417  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  418  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Practice\ 2 ; exit;
+  419  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  420  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  421  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  422  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  423  >> 91
+  424  91
+  425  python
+  426  cd Desktop
+  427  cd FreeTime
+  428  ls
+  429  $1
+  430  $2
+  431  ls
+  432  $1
+  433  ls
+  434  echo HelloWorld.txt
+  435  echo $1 > HelloWorld.txt
+  436  echo $2 > HelloWorld.txt
+  437  cat $2 > HelloWorld.txt
+  438  cd Desktop/FreeTime
+  439  echo $1 >> HelloWorld.txt
+  440  ls
+  441  cat HelloWorld.txt
+  442  echo HelloWorld > HelloWorld.txt
+  443  cat HelloWorld.txt
+  444  echo Hello World > HelloWorld.txt
+  445  cat HelloWorld.txt
+  446  ls -R
+  447  ls -r
+  448  sort 
+  449  ls
+  450  ls -l
+  451  ls -t
+  452  ls .alt
+  453  ls -alt
+  454  cut
+  455  touch Round.txt
+  456  nano  Round.txt
+  457  clear
+  458  ls
+  459  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  460  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  461  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Switch ; exit;
+  462  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Switch ; exit;
+  463  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  464  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  465  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  466  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  467  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  468  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  469  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  470  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  471  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/main ; exit;
+  472  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/FizzBuzz ; exit;
+  473  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  474  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  475  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  476  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  477  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  478  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  479  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  480  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Dick ; exit;
+  481  /var/folders/53/d7q8t6691ls25ty_9s8zyzfc0000gn/T/Beta\ Demo ; exit;
+  482  clear
+  483  ls
+  484  cat mathrorone
+  485  cat mathrorone.txt
+  486  ls
+  487  ls -alt
+  488  clear
+  489  cd Desktop/FreeTime
+  490  git init Sample.txt
+  491  ls
+  492  git add Scene 1.txt << Sample.txt
+  493  vim
+  494  vim
+  495  vim
+  496  vim /etc/motd
+  497  pwd
+  498  clear
+  499  clear
+  500  sudo apt ginstall/git
+  501  clear
+  502  cd Desktop/FreeTime
+  503  ls
+  504  ls -alr
+  505  ls -alt
+  506  clear
+  507  hy
+  508  history
+  509  history | grep cat
+  510  history | grep ls
+  511  history | grep .txt
+  512  history | grep git
+  513  history | grep sort ggit
+  514  history | grep sort git
+  515  history | grep git
+  516  clear
+  517  cd Desktop 
+  518  grep .txt
+  519  grep .txt
+  520  clear
+  521  ls
+  522  wc
+  523  HelloWorld.txt | wc
+  524  cat HelloWorld.txt | wc
+  525  cat HelloWorld.txt
+  526  cat HelloWorld.txt | grep H
+  527  cat HelloWorld.txt | grep Por
+  528  clear
+  529  ls
+  530  cat estas.out
+  531  cat Round.txt
+  532  cat Round.txt | wc
+  533  cat Round.txt | grep n
+  534  cat Round.txt | grep n | sort
+  535  cat Sample.txt
+  536  cat hola.txt
+  537  nano hola.txt
+  538  nano hola.txt
+  539  clear
+  540  history > hist.txt
